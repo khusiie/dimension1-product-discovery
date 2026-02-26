@@ -41,7 +41,8 @@ A full-stack product discovery application built with Next.js and Groq AI.
   4. The frontend filters the product list based on the returned IDs and displays the AI summary.
 
 ## Time Spent
-- ~1 hour: Project setup and Next.js configuration.
-- ~1 hour: Backend API development and Groq integration.
-- ~1 hour: Frontend UI and integration.
-Total: ~3 hours.
+- ~20 min: Project setup and Next.js configuration.
+- ~30 min: Backend API development and Groq integration.
+- ~30 min: Frontend UI and integration.
+- ~10 min: Manual testing and documentation.
+**Total: ~1.5 hours**
