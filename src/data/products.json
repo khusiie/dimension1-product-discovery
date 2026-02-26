@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "ZenBook 14",
+    "category": "Laptops",
+    "price": 999.99,
+    "description": "Ultra-slim laptop with OLED display and powerful performance for professionals.",
+    "tags": ["professional", "ultra-portable", "oled"]
+  },
+  {
+    "id": "2",
+    "name": "GameFiX Pro",
+    "category": "Laptops",
+    "price": 1499.99,
+    "description": "High-end gaming laptop with RTX 4070 and 165Hz refresh rate screen.",
+    "tags": ["gaming", "high-performance", "backlit-keyboard"]
+  },
+  {
+    "id": "3",
+    "name": "EcoTab 10",
+    "category": "Tablets",
+    "price": 299.99,
+    "description": "Affordable and sustainable tablet for everyday browsing and media consumption.",
+    "tags": ["budget", "sustainable", "media"]
+  },
+  {
+    "id": "4",
+    "name": "PixelBuds Pro 2",
+    "category": "Audio",
+    "price": 199.99,
+    "description": "Premium wireless earbuds with active noise cancellation and spatial audio.",
+    "tags": ["audio", "wireless", "anc"]
+  },
+  {
+    "id": "5",
+    "name": "BudgetMaster Desktop",
+    "category": "Desktops",
+    "price": 599.99,
+    "description": "Reliable office desktop with plenty of storage and smooth multitasking.",
+    "tags": ["office", "budget", "reliable"]
+  },
+  {
+    "id": "6",
+    "name": "Titan GPU Workstation",
+    "category": "Desktops",
+    "price": 3499.99,
+    "description": "Extreme performance workstation for AI development and 3D rendering.",
+    "tags": ["workstation", "creative", "ai"]
+  },
+  {
+    "id": "7",
+    "name": "SoundBar Elite",
+    "category": "Audio",
+    "price": 449.99,
+    "description": "Immersive home theater soundbar with Dolby Atmos support.",
+    "tags": ["home-theater", "premium", "audio"]
+  },
+  {
+    "id": "8",
+    "name": "LitePad Mini",
+    "category": "Tablets",
+    "price": 199.99,
+    "description": "Compact and lightweight tablet perfect for kids and light reading.",
+    "tags": ["kids", "portable", "budget"]
+  }
+]
